@@ -3,6 +3,6 @@ Supplemental data for the master thisis 'ToAST - a TOxin-Antitoxin prediction To
 
 #### Comments on the digital supplement
 
-In this thesis, 22 runs (20 TAS + 2 TAS with different start sequence) of ToAST are described. To achieve these results, the parameters of ToAST were adapted to the respective systems. These adjustments were called 'special runs' (sr). Due to the sr a total of 30 runs of ToAST are in the digital supplement. 
+In this thesis, 22 runs (20 TAS + 2 TAS with different start sequence) of ToAST are described. To achieve these results, the parameters of ToAST were adapted to the respective systems. These adjustments were called 'special runs' (sr). Due to the sr a total of 30 runs of ToAST are in the digital supplement. For systems with a high number of found sequences the results of the iterative sequence search are compressed (.zip). 
 
 The digital supplement also contains the further evaluations of the ToAST data and the implemented scripts of ToAST.
